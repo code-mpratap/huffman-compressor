@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.obj
+*.log
+*.tmp
+*.bin
+*.huff
+output.txt
+tempCodeRunnerFile.cpp
+.vscode/
+.idea/
+.DS_Store
